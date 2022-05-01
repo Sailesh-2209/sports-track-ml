@@ -1,0 +1,5 @@
+images/
+venv/
+videos/
+weights.hdf5
+.ipynb_checkpoints/
